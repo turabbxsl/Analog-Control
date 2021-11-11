@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Analog Control\Analog Control\bin\Debug\Analog Control.exe.config
+C:\Users\HP\source\repos\Analog Control\Analog Control\bin\Debug\Analog Control.exe
+C:\Users\HP\source\repos\Analog Control\Analog Control\bin\Debug\Analog Control.pdb
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog_Control.Properties.Resources.resources
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog Control.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog Control.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog Control.exe
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog Control.pdb
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog_Control.Form1.resources
+C:\Users\HP\source\repos\Analog Control\Analog Control\obj\Debug\Analog Control.csprojAssemblyReference.cache
